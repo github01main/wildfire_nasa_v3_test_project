@@ -3,7 +3,9 @@
 > This is a React app to track nature Disaster and plot them on a Google map.
 > When You want to check nature disaster id check https://eonet.gsfc.nasa.gov/api/v3/events.
 > I have been tried TypeScript but that's not good way for use this customized node package modules.
-> 
+> Which I used npm list Simply ... postcss-safe-parser, icons-mdi
+> You Could add more and find modules on google-maps-api like ... Geocoding API, Geolocation API, Maps JavaScript API, Places API
+> Application Limitation is default settings is None but i recommend (HTTP refererd) it's good for test on your local local. http://localhost:3000
 
 ## Usage
 
