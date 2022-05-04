@@ -1,6 +1,9 @@
-# Wildfire Tracker
+# Minimum Customized Wildfire Tracker Demo
 
-> This is a React app to track wildfires and plot them on a Google map.
+> This is a React app to track nature Disaster and plot them on a Google map.
+> When You want to check nature disaster id check https://eonet.gsfc.nasa.gov/api/v3/events.
+> I have been tried TypeScript but that's not good way for use this customized node package modules.
+> 
 
 ## Usage
 
