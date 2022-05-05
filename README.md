@@ -38,7 +38,7 @@ yarn build
 
 You will need to add your Google Maps API key in the Map.js component and register for a NASA API key at https://api.nasa.gov. If you deploy, please move the keys to a safe place
 
-## Original Repo
+## Original Youtube, Repo
 
 https://github.com/bradtraversy/wildfire-tracker Original Repogitory Link
 
