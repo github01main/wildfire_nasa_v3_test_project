@@ -6,6 +6,7 @@
 > Which I used npm list Simply ... postcss-safe-parser, icons-mdi
 > You Could add more and find modules on google-maps-api like ... Geocoding API, Geolocation API, Maps JavaScript API, Places API
 > Application Limitation is default settings is None but i recommend (HTTP refererd) it's good for test on your local local. http://localhost:3000
+> you need to put the key of the google maps api. the code line at 21 on src\components\Map.js.
 
 ## STRUCT
 * CSR(Client Side Rendering) / Components list :
